@@ -1,0 +1,37 @@
+ #header { 
+     background-color:#91839E;
+	 color:white;
+	 text-align:center;
+	 padding:5px; 
+	 }
+ #nav { 
+	line-height:30px;
+	 background-color:#967867; 
+	 color:white;
+	 height:350px;
+	 width:210px;
+	 float:left; 
+	 padding:5px; 
+	 }
+ #permbajtja {
+	width:350px;
+	float:left;
+	padding:10px;
+	} 
+#footer { 
+	background-color:#94BCBC; 
+	color:white; 
+	clear:both;
+	text-align:center; 
+	padding:5px;
+	}
+#types {
+	width:350px;
+	float:left;
+	padding:10px;
+    }
+#types2 {
+	width:350px;
+	float:right;
+	padding:10px;
+    }
